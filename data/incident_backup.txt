@@ -1,0 +1,15 @@
+TechCorp Security Incident Report
+
+Incident ID: INC-1001
+Department: IT Security
+Status: Under Investigation
+
+Description:
+An employee reported suspicious login activity
+on an internal application.
+
+Severity: Medium
+Assigned Team: Security Operations
+
+This is dummy information created for MCP
+security testing.
